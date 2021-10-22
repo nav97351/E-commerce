@@ -1,0 +1,14 @@
+.card__list{
+    /* margin-right: 40px; */
+    width: 18rem;
+    height:19rem;
+    /* border-left:-5px solid grey; */
+    box-shadow: 2px 2px 1px rgb(95, 94, 94);
+   
+}
+.card__list:hover{
+    transition:1.5s;
+    transform: scale(1.05);
+    background-color:rgb(225, 235, 250);
+    
+}

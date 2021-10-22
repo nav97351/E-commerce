@@ -1,0 +1,6 @@
+.slider{
+    /* because container - fluid comes with padding of 15px by default */
+    margin-left:-15px; 
+    margin-right:-15px;
+    
+}

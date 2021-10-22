@@ -1,0 +1,14 @@
+.section__cards{
+  
+    background-color: rgb(209, 209, 208);
+    width:100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    align-items: center;
+}
+
+.section__cards__col{
+    padding-left: 35px !important;
+
+}
+

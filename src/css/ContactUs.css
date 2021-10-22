@@ -1,0 +1,21 @@
+.contactus{
+    background-color: rgb(209, 209, 208);
+    margin-bottom:-10px;
+    padding-bottom:30px;
+    
+}
+
+.contactus__formcontainer{
+    padding-top: 5rem;
+    align-items: center;
+}
+.contactus__formcontainer > h6{
+    color:rgb(54, 53, 53);
+}
+.field{
+    width:30rem;
+    padding:7px;
+}
+#form__textarea{
+    height:7rem;
+}

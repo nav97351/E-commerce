@@ -1,0 +1,27 @@
+.cart__container{
+    padding:20px;
+    margin-bottom: -15px; 
+    background-color: rgb(209, 209, 208);
+    height:100vh;
+}
+.cart__table{
+    width: 100%;
+    /* border: 2px solid black;   */
+    
+}
+.cart__table__col1{
+    width:20%;
+    
+}
+.cart__table__col2{
+    width:50%;
+}
+.cart__table__col3{
+    width:30%;
+}
+.cart__table__col4{
+    width:40%;
+}
+
+
+
