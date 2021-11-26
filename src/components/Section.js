@@ -9,12 +9,10 @@ import business from '../images/card_images/business.jpg';
 import comics from '../images/card_images/comics.jpg';
 import computers from '../images/card_images/computers.jpg';
 import cooking from '../images/card_images/cooking.jpg';
-import edu from '../images/card_images/edu.jpg';
 import entertainment from '../images/card_images/entertainment.jpg';
 import health from '../images/card_images/health.jpg';
 import history from '../images/card_images/history.jpg';
 import hobbies from '../images/card_images/hobbies.jpg';
-import home from '../images/card_images/home.jpg';
 import horror from '../images/card_images/horror.jpg';
 import kids from '../images/card_images/kids.jpg';
 import literature from '../images/card_images/literature.jpg';
@@ -52,12 +50,11 @@ export default function Section() {
     { 'id': '4', 'src': comics, 'title': "Comics" },
     { 'id': '5', 'src': computers, 'title': "Computers & Tech" },
     { 'id': '6', 'src': cooking, 'title': "Cooking" },
-    { 'id': '7', 'src': edu, 'title': "Edu & Reference" },
+    
     { 'id': '8', 'src': entertainment, 'title': "Entertainment" },
     { 'id': '9', 'src': health, 'title': "Health & Fitness" },
     { 'id': '10', 'src': history, 'title': "History" },
     { 'id': '11', 'src': hobbies, 'title': "Hobbies & Crafts" },
-    { 'id': '12', 'src': home, 'title': "Home & Garden" },
     { 'id': '13', 'src': horror, 'title': "Horror" },
     { 'id': '14', 'src': kids, 'title': "Kids" },
     { 'id': '15', 'src': literature, 'title': "Literature & Fiction" },

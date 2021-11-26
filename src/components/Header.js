@@ -30,7 +30,7 @@ export default function Header() {
                     </Nav>
                     <Nav className="flex-row navbar__icons" >
                         <Link to="/"  style={{ textDecoration: 'none' }}><HeaderOptions Icon={HomeIcon} title='Home' /></Link>
-                        <Link to="/products"> <HeaderOptions Icon={ExploreIcon} title='Products' /></Link>
+                        {/* <Link to="/products"> <HeaderOptions Icon={ExploreIcon} title='Products' /></Link> */}
                         <Link to="/contact"  style={{ textDecoration: 'none' }}> <HeaderOptions Icon={InfoIcon} title='Contact us' /></Link>
                         <Link to="/cart"  style={{ textDecoration: 'none' }}> <HeaderOptions Icon={ShoppingCartIcon} title='Cart' /></Link>
                         

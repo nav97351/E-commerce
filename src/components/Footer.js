@@ -16,7 +16,7 @@ export default function Footer() {
         on screen likewise */}
         <Row>
           <Col xs={12} md={12} xl={4} className="footer__firstcol">
-            <img src={logo} width="155rem" /><br /><br/>
+            <img src={logo} width="155rem" alt="ApniKitabain"/><br /><br/>
             <p className="footer__para">Apni Kitabain is designed to deliver the books for bibliophile<br /> all over India with the best and affordable price.</p>
           </Col>
           <br/>

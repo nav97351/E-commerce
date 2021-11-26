@@ -1,0 +1,20 @@
+.card{
+    width: 19.5rem;
+    /* height:32rem; */
+    box-shadow: 2px 2px 1px rgb(95, 94, 94);
+}
+.card__image{
+    height:15rem;
+    /* object-fit: cover; */
+}
+.card:hover{
+    transition:1.5s;
+    transform: scale(1.05);
+    background-color:rgb(225, 235, 250);
+    
+}
+.card__btn{
+    
+    display: flex;
+    justify-content: center;
+}

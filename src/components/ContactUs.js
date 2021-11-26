@@ -32,7 +32,7 @@ const ContactUs = () => {
             <input type="number" placeholder="Contact Number" className="field" value={contact} onChange={(e)=>setContact(e.target.value)}></input><br/><br/>
             <input type="text" placeholder="Subject" className="field" value={subject} onChange={(e)=>setSubject(e.target.value)}></input><br/><br/>
             <textarea type="text" placeholder="Message" className="field" id="form__textarea" value={textArea} onChange={(e)=>setTextArea(e.target.value)}></textarea><br/><br/>
-            <Button type="submit" variant="secondary" className="form_submit_button">Submit</Button>
+            <Button type="submit" variant="dark" className="form_submit_button">Submit</Button>
           </form>
       </div>
      </center>
